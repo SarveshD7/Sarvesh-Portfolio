@@ -4,9 +4,22 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import movie from "./movie.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
+import developer from "./developer.png";
+import developer2 from "./developer2.png";
+import pytorch from "./pytorch.png";
+import py from "./py.png";
+import cpp from "./cpp.png";
+import gesture from "./gesture.jpg";
+import keypoints from "./keypoints.png";
+import c from "./c.png";
+import NST from "./NST.png";
+import tensorflow from "./tensorflow.png";
+import keras from "./keras.png";
+import instagram from "./instagram.png";
+import linkedin from "./linkedin.png";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -29,6 +42,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import pokemon from "./pokemon.jpg";
 
 export {
   logo,
@@ -59,4 +73,19 @@ export {
   carrent,
   jobit,
   tripguide,
+  developer2,
+  developer,
+  linkedin,
+  instagram,
+  pytorch,
+  tensorflow,
+  keras,
+  c,
+  cpp,
+  py,
+  NST,
+  gesture,
+  keypoints,
+  movie,
+  pokemon,
 };
